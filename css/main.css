@@ -1420,6 +1420,34 @@ header .logo a {
 }
 
 /**
+  * 404 Page
+ * --------------------------------------------------------------- 
+*/
+.overflow-hidden {
+	overflow: hidden;
+}
+.intro-content .btn {
+	color: #FFFFFF !important;
+	cursor: pointer;
+	border-color: rgba(255, 255, 255, 0.3);
+	height: 6rem !important;
+	line-height: 5.4rem !important;
+	padding: 0 3.5rem 0 3rem !important;
+	margin-top: .6rem;
+	font-size: 1.3rem;
+	text-transform: uppercase;
+	text-decoration: underline;
+	letter-spacing: .25rem;
+}
+.intro-content .btn:hover, .intro-content .button:focus {
+	border-color: #cc005f;
+}
+.intro-content .btn::after {
+	display: inline-block;
+	content: "";
+}
+
+/**
  * responsive:
  * Intro
  * --------------------------------------------------------------- 
