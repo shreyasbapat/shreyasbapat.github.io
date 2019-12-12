@@ -11,7 +11,7 @@ city: Mandi
 state: Himachal Pradesh
 zip_code: 175005
 country: India
-phone: (716) 555-5555
+phone: (+91) 9131-851-172
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -22,8 +22,8 @@ tiles-count: 6
 facebook_url:
 github_url: https://github.com/shreyasbapat
 gitlab_url: https://gitlab.com/u/shreyasbapat
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
+googleplus_url: 
+instagram_url: https://instagram.com/shreyasbapat
 linkedin_url: https://www.linkedin.com/in/shreyasbapat
 pinterest_url:
 slack_url:
