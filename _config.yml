@@ -2,11 +2,11 @@
 title: Shreyas
 subtitle: Bapat
 email: hello@shreyasb.com
-description: A brief overview of my profile and what I do to earn and to feel good.
+description: A brief overview of my profile and a little about what I do to earn and to feel good.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: B21 Beas Kund Hostel, IIT Mandi
+street_address: Room No. 013, B21 Beas Kund Hostel, IIT Mandi
 city: Mandi
 state: Himachal Pradesh
 zip_code: 175005
@@ -22,7 +22,7 @@ tiles-count: 6
 facebook_url:
 github_url: https://github.com/shreyasbapat
 gitlab_url: https://gitlab.com/u/shreyasbapat
-googleplus_url: 
+googleplus_url:
 instagram_url: https://instagram.com/shreyasbapat
 linkedin_url: https://www.linkedin.com/in/shreyasbapat
 pinterest_url:
