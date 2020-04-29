@@ -9,7 +9,8 @@ permalink: /
 # Docs for Shreyas
 {: .fs-9 }
 
-The website contains a lot of technical stuff, are you sure you wanted to be here? Maybe try out a few links in buttons below. If you wanted to be here anyways, welcome to the huge mess! :p . Navigate through the pages and find out everything you can.{: .fs-6 .fw-300 }
+The website contains a lot of technical stuff, are you sure you wanted to be here? Maybe try out a few links in buttons below. If you wanted to be here anyways, welcome to the huge mess! :p . Navigate through the pages and find out everything you can.   
+{: .fs-6 .fw-300 }
 
 [Main Website](https://shreyasb.com){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Shreyas's GitHub](https://github.com/shreyasbapat){: .btn .fs-5 .mb-4 .mb-md-0 }
 
